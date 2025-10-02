@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v1.x    | :check_mark_button:|
+| v1.x    | ✔️                  |
 
 ## Reporting a Vulnerability
 
