@@ -1,6 +1,6 @@
 # pyautoartist
 ![Static Badge](https://img.shields.io/badge/Ultra-cool.-pink)
-![Static Badge](https://img.shields.io/badge/Proud-Users%20of%20Jenkins!-white?logo=jenkins&logoColor=white)  
+![Static Badge](https://img.shields.io/badge/We are-Users%20of%20Jenkins!-white?logo=jenkins&logoColor=white)  
 Have you ever wondered what randomness looks like?  
 Well, fear no more.
 # Installation
