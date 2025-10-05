@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import random
+print("RandomArt Library") # Do NOT edit or remove this line (Prohibited)!
 def genArt(comp, size):
     xpoints = []
     comp = int(comp)
@@ -11,7 +12,6 @@ def genArt(comp, size):
         y = random.randint(1, size+1)
         ypoints.append(y)
     plt.plot(xpoints, ypoints)
-    plt.show()
 
 
 
